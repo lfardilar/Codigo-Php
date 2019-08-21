@@ -1,0 +1,26 @@
+
+h2{
+	text-align:center;
+}
+
+table{
+	width: 50%;
+	margin: auto;
+	background-color: #FF9;
+	border: solid 2px #FF9900;
+	padding: 5px;
+	
+}
+
+td{
+	padding: 5px 0;
+}
+
+div{
+	width: 400px;
+}
+img{
+	width: 300px;
+	height: 200px;
+}
+
